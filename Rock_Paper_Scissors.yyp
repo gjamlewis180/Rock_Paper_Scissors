@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"obj_computer","path":"objects/obj_computer/obj_computer.yy",},"order":1,},
+    {"id":{"name":"test_obj","path":"objects/test_obj/test_obj.yy",},"order":4,},
     {"id":{"name":"obj_player_parents","path":"objects/obj_player_parents/obj_player_parents.yy",},"order":3,},
     {"id":{"name":"spr_RPS","path":"sprites/spr_RPS/spr_RPS.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
