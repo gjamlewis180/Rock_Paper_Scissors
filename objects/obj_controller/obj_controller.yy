@@ -35,6 +35,9 @@
   },
   "resourceVersion": "1.0",
   "name": "obj_controller",
-  "tags": [],
+  "tags": [
+    "globals",
+    "score vars",
+  ],
   "resourceType": "GMObject",
 }
